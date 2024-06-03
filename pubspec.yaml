@@ -3,7 +3,7 @@ description: "deep link dto template under simple architecture framework."
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/sa_deeplink_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -32,9 +32,9 @@ dev_dependencies:
   widget_binding_lego: #@add
   sa_data_class_lego:
   sa_listener_lego:
-  listener_lego:
+  listener_lego: #@add
   sa_app_links_listener_lego:
-  app_links_lego:
+  app_links_lego: #@add
   usage_note_lego:
 
 flutter:
