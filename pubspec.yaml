@@ -1,7 +1,7 @@
 name: sa_deeplink_lego
 description: "deep link dto template under simple architecture framework."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_deeplink_lego
 
 version: 1.0.0
 
